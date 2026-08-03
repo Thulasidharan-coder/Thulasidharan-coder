@@ -2,7 +2,7 @@
 I’m currently learning **DevOps** and **Cloud Computing**.<br>
 🌐 **Portfolio:** [thuluxx.github.io](https://thuluxx.github.io/)
 # 💻 Coding Profiles
-- 💛 LeetCode: [https://leetcode.com/u/ZD2vTXRWlU/]
+- 💛 LeetCode: [https://leetcode.com/u/ZD2vTXRWlU/](https://leetcode.com/u/ZD2vTXRWlU/)
 
 ## 🌐 Socials
 
