@@ -1,6 +1,8 @@
 # 💫 About Me:
-I’m currently learning about DevOps and cloud computing. < br> This is my portfolio: https://thuluxx.github.io/
-
+I’m currently learning **DevOps** and **Cloud Computing**.<br>
+🌐 **Portfolio:** [thuluxx.github.io](https://thuluxx.github.io/)
+# 💻 Coding Profiles
+- 💛 LeetCode: [https://leetcode.com/u/ZD2vTXRWlU/]
 
 ## 🌐 Socials
 
@@ -15,11 +17,10 @@ I’m currently learning about DevOps and cloud computing. < br> This is my port
 ![](https://streak-stats.demolab.com/?user=thuluxx&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=thuluxx&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thuluxx&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thuluxx&limit=5&theme=dark&combine_all_yearly_contributions=true)
